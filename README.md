@@ -1,7 +1,7 @@
 # Hola, soy Arian Cerna 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenieria+de+Sistemas+e+Informatica;Desarrollador+Full-Stack+en+formacion;Construyendo+proyectos+web%2C+APIs+y+sistemas+de+gestion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=%20Estudiante+de+Ingenieria+de+Sistemas+e+Informatica;%20Desarrollador+Full-Stack+en+formacion;%20Construyendo+proyectos+web%2C+APIs+y+sistemas+de+gestion" alt="Typing SVG" />
 </div>
 
 <p align="center">
