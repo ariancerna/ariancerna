@@ -1,7 +1,7 @@
 # Hola, soy Arian Cerna 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenieria+de+Sistemas+en+la+UTP;Desarrollador+Full-Stack+en+formacion;Construyendo+proyectos+web%2C+APIs+y+sistemas+de+gestion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenieria+de+Sistemas+e+Informatica;Desarrollador+Full-Stack+en+formacion;Construyendo+proyectos+web%2C+APIs+y+sistemas+de+gestion" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,21 +11,20 @@
   <a href="https://ariancerna.dev">
     <img src="https://img.shields.io/badge/Portfolio-ariancerna.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/UTP-Ingenieria%20de%20Sistemas-E30613?style=for-the-badge" alt="UTP" />
 </p>
 
 ---
 
 ## Sobre mi
 
-Soy estudiante de **Ingenieria de Sistemas en la UTP** y me gusta construir soluciones completas: desde interfaces modernas hasta APIs, bases de datos, autenticacion y paneles de gestion.
+Soy estudiante de **Ingenieria de Sistemas e Informatica** y desarrollador **Full-Stack en formacion**. Me gusta construir soluciones completas: desde interfaces modernas hasta APIs, bases de datos, autenticacion y paneles de gestion.
 
 Me interesa crear software util, ordenado y mantenible, especialmente sistemas web para negocios, instituciones, inventarios, reservas, eventos y gestion academica.
 
 ```ts
 const arian = {
-  carrera: "Ingenieria de Sistemas",
-  universidad: "UTP",
+  carrera: "Ingenieria de Sistemas e Informatica",
+  rol: "Desarrollador Full-Stack en formacion",
   enfoque: ["Full-Stack Development", "APIs REST", "Bases de datos", "UI moderna"],
   aprendiendo: ["Next.js", "Spring Boot", "Prisma", "Arquitectura de software"],
   objetivo: "Convertir ideas reales en productos funcionales"
@@ -93,13 +92,18 @@ const arian = {
 
 ## Estadisticas
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ariancerna&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariancerna&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositorios%20publicos-12-38BDF8?style=for-the-badge&logo=github" alt="Repositorios publicos" />
+  <img src="https://img.shields.io/github/followers/ariancerna?style=for-the-badge&logo=github&label=Seguidores&color=8B5CF6" alt="Seguidores" />
+  <img src="https://img.shields.io/badge/Enfoque-Full--Stack-22C55E?style=for-the-badge" alt="Full-Stack" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ariancerna&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <sub>Las tarjetas dinamicas pueden tardar unos minutos en actualizarse por cache de GitHub.</sub>
 </div>
 
 ---
