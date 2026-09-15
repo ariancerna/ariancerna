@@ -102,10 +102,6 @@ const arian = {
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ariancerna&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <sub>Las tarjetas dinamicas pueden tardar unos minutos en actualizarse por cache de GitHub.</sub>
-</div>
-
 ---
 
 ## Contacto
