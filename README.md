@@ -88,6 +88,6 @@ Most of my work solves real problems for real people: class bookings for a gym, 
 <a href="https://ariancerna.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <br /><br />
-<img src="https://komarev.com/ghpvc/?username=ariancerna&style=flat-square&color=0ea5e9&label=Profile+views" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ariancerna.ariancerna&left_text=Profile%20views&right_color=%230ea5e9" alt="Profile views" />
 
 </div>
