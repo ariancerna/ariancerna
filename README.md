@@ -1,127 +1,93 @@
-# Hola, soy Arian Cerna 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=%20Estudiante+de+Ingenieria+de+Sistemas+e+Informatica;%20Desarrollador+Full-Stack+en+formacion;%20Construyendo+proyectos+web%2C+APIs+y+sistemas+de+gestion" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/ariancerna">
-    <img src="https://img.shields.io/badge/GitHub-ariancerna-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://ariancerna.dev">
-    <img src="https://img.shields.io/badge/Portfolio-ariancerna.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-## Sobre mi
-
-Soy estudiante de **Ingenieria de Sistemas e Informatica** y desarrollador **Full-Stack en formacion**. Me gusta construir soluciones completas: desde interfaces modernas hasta APIs, bases de datos, autenticacion y paneles de gestion.
-
-Me interesa crear software util, ordenado y mantenible, especialmente sistemas web para negocios, instituciones, inventarios, reservas, eventos y gestion academica.
-
-```ts
-const arian = {
-  carrera: "Ingenieria de Sistemas e Informatica",
-  rol: "Desarrollador Full-Stack en formacion",
-  enfoque: ["Full-Stack Development", "APIs REST", "Bases de datos", "UI moderna"],
-  aprendiendo: ["Next.js", "Spring Boot", "Prisma", "Arquitectura de software"],
-  objetivo: "Convertir ideas reales en productos funcionales"
-}
-```
-
----
-
-## Stack Tecnologico
-
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+# Hi, I'm Arian Cerna 👋
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Systems+%26+Computer+Engineering+student;Full-Stack+Developer;I+build+web+apps%2C+APIs+and+management+systems" alt="Typing SVG" />
 
-### Base de datos y herramientas
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://ariancerna.dev"><img src="https://img.shields.io/badge/Portfolio-ariancerna.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 ---
 
-## Proyectos Destacados
+## About me
 
-| Proyecto | Descripcion | Tecnologias |
+I'm a **Systems & Computer Engineering** student and a **full-stack developer** based in Peru. I enjoy building complete products end to end — from clean, responsive interfaces to REST APIs, relational databases, authentication and admin dashboards.
+
+Most of my work solves real problems for real people: class bookings for a gym, event management for a church, a volleyball club platform, an online flower shop, and inventory, appointment and academic management systems.
+
+- 🔭 Currently building **[Titan-Gym](https://github.com/ariancerna/Titan-Gym)** and a **volleyball club platform**
+- 🌱 Learning more about **software architecture, testing and cloud deployment**
+- 💬 Ask me about **React, Next.js, Spring Boot, Supabase or PostgreSQL**
+- 🌐 Spanish (native) · English
+
+---
+
+## Tech stack
+
+**Frontend**<br />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**<br />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & services**<br />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools & deployment**<br />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+---
+
+## Featured projects
+
+| Project | What it does | Stack |
 |---|---|---|
-| [church-events](https://github.com/ariancerna/church-events) | App mobile-first para eventos, registros, pagos, QR check-in, galerias, encuestas y exportacion a Excel. | Next.js, TypeScript, Prisma, PostgreSQL |
-| [cineclub-salamanca-app](https://github.com/ariancerna/cineclub-salamanca-app) | Sistema de reserva de asientos y control de aforo para cineclub. | Java, Spring Boot, JWT, JavaScript |
-| [academic-management-system](https://github.com/ariancerna/academic-management-system) | App de escritorio para gestion universitaria aplicando SOLID, patrones GoF y GRASP. | JavaFX, MySQL |
-| [ecommerce-inventory-system](https://github.com/ariancerna/ecommerce-inventory-system) | Sistema full-stack de inventario y ventas con auth, control de stock y reportes CSV. | Node.js, Express, MySQL |
-| [veterinaria-oyanguren](https://github.com/ariancerna/veterinaria-oyanguren) | Gestion de citas, pacientes e historias clinicas para veterinaria con dos sedes. | FastAPI, SQLAlchemy, React |
-| [youtube-downloader](https://github.com/ariancerna/youtube-downloader) | App de escritorio para descargar videos como MP4 o MP3. | JavaScript |
-| [jesucristo-fuente-de-vida](https://github.com/ariancerna/jesucristo-fuente-de-vida) | Sitio institucional moderno con rutas dinamicas, SEO e imagenes optimizadas. | React, Vite, Tailwind CSS |
-| [portfolio](https://github.com/ariancerna/portfolio) | Portfolio personal desarrollado con frontend moderno. | React, Vite, Tailwind CSS |
+| **[Titan-Gym](https://github.com/ariancerna/Titan-Gym)** · [live](https://titan-gym-tau.vercel.app) | Gym class booking with real-time capacity, waitlist, QR check-in, email reminders and an admin panel. | React, TypeScript, Supabase |
+| **[church-events](https://github.com/ariancerna/church-events)** | Mobile-first app for church events: registrations, payments, QR check-in and photo galleries. | Next.js, TypeScript, PostgreSQL |
+| **Volleyball club** · [frontend](https://github.com/ariancerna/HerramientasDesarrollo_Grupo4_Frontend) · [backend](https://github.com/ariancerna/HerramientasDesarrollo_Grupo4_Backend) · [live](https://voleyclub.vercel.app) | Club management platform: students, categories, schedules and notifications. | Next.js, TypeScript, Supabase |
+| **[bloome-flores](https://github.com/ariancerna/bloome-flores)** · [live](https://bloome-flores.vercel.app) | Online store for a preserved-flower shop with a custom gallery and personalized gifts. | React, TypeScript, Vite |
+| **[jesucristo-fuente-de-vida](https://github.com/ariancerna/jesucristo-fuente-de-vida)** | Institutional church website with dynamic routing, SEO and optimized images. | React, Vite, Tailwind CSS |
+| **[veterinaria-oyanguren](https://github.com/ariancerna/veterinaria-oyanguren)** | Appointments, patients and medical records for a two-location veterinary clinic. | FastAPI, SQLAlchemy, React |
+| **[tech-store](https://github.com/ariancerna/tech-store)** | Inventory control for a tech store with role-based access control. | Spring Boot, React, PostgreSQL |
+| **[cineclub-salamanca-app](https://github.com/ariancerna/cineclub-salamanca-app)** | Seat reservations and capacity control for a movie club. | Spring Boot, JWT, JavaScript |
+| **[ecommerce-inventory-system](https://github.com/ariancerna/ecommerce-inventory-system)** | Inventory and sales management with stock control and CSV reports. | Node.js, Express, MySQL |
+| **[academic-management-system](https://github.com/ariancerna/academic-management-system)** | University management desktop app applying SOLID, GoF patterns and GRASP. | JavaFX, MySQL |
 
 ---
 
-## En que estoy trabajando
-
-| Area | Lo que practico |
-|---|---|
-| Frontend | Interfaces limpias, responsive design, componentes reutilizables |
-| Backend | APIs REST, autenticacion, roles, validaciones y arquitectura |
-| Datos | Modelado relacional, consultas, reportes y persistencia |
-| Producto | Sistemas utiles para escenarios reales: eventos, inventarios, reservas y gestion |
-
----
-
-## Estadisticas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositorios%20publicos-12-38BDF8?style=for-the-badge&logo=github" alt="Repositorios publicos" />
-  <img src="https://img.shields.io/github/followers/ariancerna?style=for-the-badge&logo=github&label=Seguidores&color=8B5CF6" alt="Seguidores" />
-  <img src="https://img.shields.io/badge/Enfoque-Full--Stack-22C55E?style=for-the-badge" alt="Full-Stack" />
-</p>
+## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariancerna&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=ariancerna&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
 
-## Contacto
-
-<p align="center">
-  <a href="https://ariancerna.dev">
-    <img src="https://img.shields.io/badge/Visita%20mi%20portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ariancerna">
-    <img src="https://img.shields.io/badge/Sigueme%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## Let's connect
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ariancerna&style=for-the-badge&color=0ea5e9" alt="Profile views" />
-</div>
 
----
+<a href="https://ariancerna.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-<div align="center">
-  <strong>Gracias por visitar mi perfil.</strong><br />
-  Siempre aprendiendo, construyendo y mejorando proyecto por proyecto.
+<br /><br />
+<img src="https://komarev.com/ghpvc/?username=ariancerna&style=flat-square&color=0ea5e9&label=Profile+views" alt="Profile views" />
+
 </div>
