@@ -16,7 +16,7 @@ I'm a **Systems & Computer Engineering** student and a **full-stack developer** 
 
 Most of my work solves real problems for real people: class bookings for a gym, event management for a church, a volleyball club platform, an online flower shop, and inventory, appointment and academic management systems.
 
-- 🔭 Currently building **[Titan-Gym](https://github.com/ariancerna/Titan-Gym)** and a **volleyball club platform**
+- 🔭 Currently building **[Titan-Gym](https://github.com/ariancerna/Titan-Gym)**, **[LegalDeadline-Flow](https://github.com/ariancerna/LegalDeadline-Flow)** and a **volleyball club platform** as part of my current term
 - 🌱 Learning more about **software architecture, testing and cloud deployment**
 - 💬 Ask me about **React, Next.js, Spring Boot, Supabase or PostgreSQL**
 - 🌐 Spanish (native) · English
@@ -60,10 +60,10 @@ Most of my work solves real problems for real people: class bookings for a gym, 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Titan-Gym](https://github.com/ariancerna/Titan-Gym)** · [live](https://titan-gym-tau.vercel.app) | Gym class booking with real-time capacity, waitlist, QR check-in, email reminders and an admin panel. | React, TypeScript, Supabase |
-| **[LegalDeadline-Flow](https://github.com/ariancerna/LegalDeadline-Flow)** · [live](https://legaldeadline-sigma.vercel.app) | Case, task and deadline management for a law firm with role-based access, risk alerts and an audit trail. | Spring Boot, PostgreSQL, Angular |
+| **[Titan-Gym](https://github.com/ariancerna/Titan-Gym)** 🚧 · [live](https://titan-gym-tau.vercel.app) | Gym class booking with real-time capacity, waitlist, QR check-in, email reminders and an admin panel. | React, TypeScript, Supabase |
+| **[LegalDeadline-Flow](https://github.com/ariancerna/LegalDeadline-Flow)** 🚧 · [live](https://legaldeadline-sigma.vercel.app) | Case, task and deadline management for a law firm with role-based access, risk alerts and an audit trail. | Spring Boot, PostgreSQL, Angular |
 | **[church-events](https://github.com/ariancerna/church-events)** | Mobile-first app for church events: registrations, payments, QR check-in and photo galleries. | Next.js, TypeScript, PostgreSQL |
-| **Volleyball club** · [frontend](https://github.com/ariancerna/HerramientasDesarrollo_Grupo4_Frontend) · [backend](https://github.com/ariancerna/HerramientasDesarrollo_Grupo4_Backend) · [live](https://voleyclub.vercel.app) | Club management platform: students, categories, schedules and notifications. | Next.js, TypeScript, Supabase |
+| **Volleyball club** 🚧 · [frontend](https://github.com/ariancerna/HerramientasDesarrollo_Grupo4_Frontend) · [backend](https://github.com/ariancerna/HerramientasDesarrollo_Grupo4_Backend) · [live](https://voleyclub.vercel.app) | Club management platform: students, categories, schedules and notifications. | Next.js, TypeScript, Supabase |
 | **[bloome-flores](https://github.com/ariancerna/bloome-flores)** · [live](https://bloome-flores.vercel.app) | Online store for a preserved-flower shop with a custom gallery and personalized gifts. | React, TypeScript, Vite |
 | **[jesucristo-fuente-de-vida](https://github.com/ariancerna/jesucristo-fuente-de-vida)** | Institutional church website with dynamic routing, SEO and optimized images. | React, Vite, Tailwind CSS |
 | **[veterinaria-oyanguren](https://github.com/ariancerna/veterinaria-oyanguren)** | Appointments, patients and medical records for a two-location veterinary clinic. | FastAPI, SQLAlchemy, React |
@@ -71,6 +71,8 @@ Most of my work solves real problems for real people: class bookings for a gym, 
 | **[cineclub-salamanca-app](https://github.com/ariancerna/cineclub-salamanca-app)** | Seat reservations and capacity control for a movie club. | Spring Boot, JWT, JavaScript |
 | **[ecommerce-inventory-system](https://github.com/ariancerna/ecommerce-inventory-system)** | Inventory and sales management with stock control and CSV reports. | Node.js, Express, MySQL |
 | **[academic-management-system](https://github.com/ariancerna/academic-management-system)** | University management desktop app applying SOLID, GoF patterns and GRASP. | JavaFX, MySQL |
+
+🚧 In active development this term (through December 2026).
 
 ---
 
